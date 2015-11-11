@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "markov-kor": "0.0.1"
+    "markov-kor": "0.0.2"
   }
 }
