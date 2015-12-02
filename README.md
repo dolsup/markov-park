@@ -16,5 +16,5 @@ markov-park는 대한민국 최-고원수각하 박근혜 대통령님의 고결
 
 ## 그런 가운데서도 우리의 핵심목표는 올해 달성해야 할 것은 이것이다
 - [node-markov-kor](https://github.com/dolsup/node-markov-kor)
-- twitter bot
+- [twitter bot](https://twitter.com/MarkovPark)
 - swing ipsum generator
